@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "365480623816",
+    "project_id": "atelierso2024",
+    "storage_bucket": "atelierso2024.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365480623816:android:5a849b038d1bfba638effd",
+        "android_client_info": {
+          "package_name": "com.example.atelier_so"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRmiZW1jWZNUvokE-0m97IKxUFxYyB-yM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
